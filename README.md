@@ -1,2 +1,2 @@
 # beep-contract-cosmwasm
-Smart control powering Beep on Cosmos 
+Smart contract powering Beep on Cosmos 
