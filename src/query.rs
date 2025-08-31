@@ -171,7 +171,7 @@ fn query_user_recovery(deps: Deps, user: Addr) -> StdResult<UserRecoveryResponse
     })
 }
 
-pub mod test {
+pub mod tests {
     use super::*;
     use crate::states::{CIRCUIT_BREAKER, FEE_STRUCTURE, GUARDIANS, OWNERS};
     use crate::types::*;

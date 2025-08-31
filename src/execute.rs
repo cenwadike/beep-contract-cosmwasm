@@ -1385,7 +1385,7 @@ fn update_health_status(
 }
 
 #[cfg(test)]
-mod execute_tests {
+mod tests {
     use super::*;
     use crate::types::*;
     use cosmwasm_std::testing::*;
